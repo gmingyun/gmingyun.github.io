@@ -2017,7 +2017,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff46ff;
+  background: #69beb1;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2870,7 +2870,7 @@ pre .javascript .function {
   box-sizing: border-box;
   padding: 40px;
   width: 700px;
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.9);
   min-height: 700px;
   box-shadow: initial;
   border-radius: initial;
@@ -3199,8 +3199,8 @@ body {
   background-position: 50% 50%;
 }
 .header-inner {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 .main-inner {
-  opacity: 0.8;
+  opacity: 0.6;
 }
